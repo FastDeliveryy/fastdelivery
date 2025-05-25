@@ -1,0 +1,48 @@
+h1 {
+	color : #000000; 
+    font-size : 30px ;
+    font-family : cursive;
+    font-weight : bold;
+    font-style : normal;
+    text-decoration : underline;
+    font-variant : normal; 
+    text-align: center;
+    }
+
+h2 {
+	color : #48f9d6; 
+    font-size : 18px ;
+    font-family : cursive;
+    font-weight : normal;
+    font-style : normal;
+    text-decoration : none;
+    font-variant : small-caps; 
+    }
+h3 {
+	color : #48f9d6; 
+    font-size : 18px ;
+    font-family : cursive;
+    font-weight : normal;
+    font-style : normal;
+    text-decoration : none;
+    font-variant : small-caps; 
+    } 
+body {
+	background-color:  white; 
+    color: ;
+	}
+img {
+  display: block;
+  width: 3%;
+  margin: ;
+}
+a {
+	text-decoration: none;
+	color : blue; 
+    font-size : 13px ;
+    font-family : cursive;
+    font-weight : normal;
+    font-style : normal;
+    text-decoration : none;
+    font-variant : small-caps; 
+	}
